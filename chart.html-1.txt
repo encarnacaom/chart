@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>chart</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><pre><code>               Rate Of Bilingual literacy in the US
+</code></pre>
+<p>On average only about 20-25% of natural born American adults can effectively speak a second language.<br>
+<img src="http://cdn.yougov.com/cumulus_uploads/document/fv2q4642vh/Lang1.png" alt="75% of Americans have no second language | YouGov"><br>
+<strong>Comparatively The Global Rate of Bilingual Literacy is Much Higher</strong><br>
+<img src="http://cdn.statcdn.com/Infographic/images/normal/26344.jpeg" alt="Chart: English, The Global Language? | Statista"><br>
+The colonial history of the English language and its dominance as the language of global commerce and media has cemented its position as the most spoken language in the world by second language learners. Mandarin and Spanish are close behind. However, most Spanish speaking countries and mainland China have relatively high levels of English comprehension. Arguably, there was likely less of of an initiative to teach foreign languages effectively because of the U.S. status as a superpower and the previous lack of population diversity.</p>
+<p><code>[^1]</code><a href="https://www.washingtonpost.com/local/education/half-the-world-is-bilingual-whats-our-problem/2019/04/24/1c2b0cc2-6625-11e9-a1b6-b29b90efa879_story.html">https://www.washingtonpost.com/local/education/half-the-world-is-bilingual-whats-our-problem/2019/04/24/1c2b0cc2-6625-11e9-a1b6-b29b90efa879_story.html</a></p>
+<p><em>Views on bilingualism in the United States 37 - NCELA</em>. (n.d.). Retrieved February 3, 2022, from <a href="https://ncela.ed.gov/files/rcd/BE021540/Views_on_Bilingualism.pdf">https://ncela.ed.gov/files/rcd/BE021540/Views_on_Bilingualism.pdf</a></p>
+</div>
+</body>
+
+</html>
